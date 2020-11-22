@@ -8,7 +8,9 @@ Application is realised as Three-tiered client server application. Application h
 
 <p>The application was made with the aim of helping to keep records of players and matches of the football club. 
 </p>
+
 # Screenshots
+
 Login
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/w0w40Tb/1.jpg" alt="1" border="0"></a>
@@ -58,7 +60,7 @@ Editing match<br>
 - [x] Search based on multiple conditions
 - [x] Authentification
 - [x] Adding/Editing and deleting players 
-- [x] MAdding/Editing and deleting  matches
+- [x] Adding/Editing and deleting  matches
 
 ## How to use
 <p>In order to start the application, user first needs to run the server, and only then user can go to login form. After logging in, user can manipulate different tabs from the main menu. User can choose players or matches panel from main menu. In players panel user can add/ edit or delete user, and also search for playes based on diferente conditions. In matches panel user can add new match where he can choose players, tournament and oponent, also user have option to edit/ delete and search matches.  Added items are saved in mySQL database. </p>
